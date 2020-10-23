@@ -5,3 +5,5 @@
 !*.zip
 !*.PcbDoc
 !*.pdf
+!*Lib*
+!*Prj*
