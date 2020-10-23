@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!*.SchDoc
+!*.zip
+!*.PcbDoc
+!*.pdf
